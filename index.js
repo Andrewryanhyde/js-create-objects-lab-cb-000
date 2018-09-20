@@ -23,3 +23,9 @@ function Bird(name, breed) {
   this.name = name;
   this.breed = breed;
 }
+
+function fish(name, species, waterConditions) {
+  this.name = name;
+  this.species = species;
+  this.waterConditions = waterConditions;
+}
